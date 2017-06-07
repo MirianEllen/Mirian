@@ -30,5 +30,17 @@ div a{
 }
 div a img{
 	width: 60px;
-
+}
+footer{
+	position: fixed;
+	bottom: 0;
+}
+footer p{
+	color: #000080;
+}
+footer p span{
+	color: #FF0;
+}
+footer p .vnw{
+	color: #FFA500;
 }
